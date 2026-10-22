@@ -1,6 +1,11 @@
 # KSP-Vandenberg
 A KK static that aims to recreate the vandenberg SLC-4E pad and landing zone.
+# KSP-Starbase
+KK Statics for the pad, massey, and Cape Canaveral OLPs (maybe
 
+
+# WARNING :
+Delete your Kopernicus cache in GameData/Kopernicus/Cache before installing the mod.
 
 # Coming soon :
 Full workflow to create any launchpads (or interesting point you want to have in good resolution), just by yourself.
